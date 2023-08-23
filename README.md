@@ -1,2 +1,2 @@
 # Business-Model-MCB-App
-MCB is a construction constant which give best and affordable service to the customer.  MCB take care small project  private residential, private commercial, state construction and federal construction to large project  industrial construction infrastructure and heavy construction.
+"MCB App" is a e-commerce platform designed to cater to the construction industry's needs, providing an all-in-one solution for consumers, contractors, and builders and offers a comprehensive builders consultancy feature.. This app not only enables users to browse and purchase construction materials, it allows users to compare prices, quality, and other essential features of construction materials.
